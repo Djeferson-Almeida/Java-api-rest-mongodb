@@ -133,3 +133,57 @@
 2024-03-20 13:03:25,675 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
 2024-03-20 13:03:25,698 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-03-20 13:03:25,704 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-20 13:06:43,083 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-20 13:06:43,233 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-20 13:06:43,242 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-20 13:06:50,310 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-20 13:06:50,349 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-20 13:06:50,357 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-20 17:49:49,357 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@13a9fcab{STOPPING}[12.0.6,sto=0]
+2024-03-20 17:49:49,397 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@6cd4ca09{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-03-21 07:51:43,602 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-21 07:54:09,439 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-21 07:54:09,600 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-21 07:54:09,611 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-21 07:55:05,562 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-21 07:55:05,609 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-21 07:55:05,622 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-21 07:55:09,263 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-21 07:55:09,310 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-21 07:55:09,318 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-21 07:57:59,159 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-21 07:57:59,185 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-21 07:57:59,193 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-21 07:58:41,344 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-21 07:58:41,359 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-21 07:58:41,365 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-21 07:58:56,102 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-21 07:58:56,116 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-21 07:58:56,121 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-21 07:59:06,866 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-21 07:59:06,902 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-21 07:59:06,909 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-21 08:01:07,958 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-21 08:01:07,981 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-21 08:01:07,990 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-21 08:01:22,324 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-21 08:01:22,358 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-21 08:01:22,367 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-21 08:01:29,752 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-21 08:01:29,789 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-21 08:01:29,795 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-21 08:01:47,776 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-21 08:01:47,794 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-21 08:01:47,807 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-21 08:02:35,245 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-21 08:02:35,265 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-21 08:02:35,273 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-21 08:02:51,026 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-21 08:02:51,038 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-21 08:02:51,043 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-21 08:03:40,110 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-21 08:03:40,124 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-21 08:03:40,130 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
+2024-03-21 08:04:33,189 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2024-03-21 08:04:33,205 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-03-21 08:04:33,212 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Projeto_Spring\projectweb\src\test\resources
