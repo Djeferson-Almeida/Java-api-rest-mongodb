@@ -1,0 +1,7 @@
+package com.projetospring.projectweb.services;
+
+public class UserService {
+
+	private UserRepository repository;
+	
+}
