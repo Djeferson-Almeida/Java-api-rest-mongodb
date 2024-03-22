@@ -1,0 +1,5 @@
+package com.projetospring.projectweb.entities;
+
+public class Order {
+
+}
