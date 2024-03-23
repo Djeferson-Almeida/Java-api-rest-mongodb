@@ -1,0 +1,21 @@
+package com.projetospring.projectweb.services;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.stereotype.Service;
+
+import com.projetospring.projectweb.entities.Order;
+import com.projetospring.projectweb.entities.User;
+
+@Service
+public class OrderService {
+
+	public List<Order> findAll(){
+		return repository.findAll();
+	}
+	
+	public User findById(Long id) {
+		Optional<Order> obj = repository.findById(id);
+		return obj.get();
+}
