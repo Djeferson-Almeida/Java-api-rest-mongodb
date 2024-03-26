@@ -2,7 +2,9 @@ package com.projetospring.projectweb.entities;
 
 import java.io.Serializable;
 import java.time.Instant;
+import java.util.HashSet;
 import java.util.Objects;
+import java.util.Set;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnore;
@@ -14,6 +16,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
+import jakarta.persistence.OneToMany;
 import jakarta.persistence.Table;
 
 @Entity
@@ -24,7 +27,6 @@ public class Order implements Serializable {
 	// Geração de ID
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-
 	private Long id;
 	// Formato UTC na data
 	@JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd'T'HH:mm:ss'Z'", timezone = "GMT")
@@ -36,6 +38,10 @@ public class Order implements Serializable {
 	@JoinColumn(name = "client_id")
 	private User client;
 
+	
+	@OneToMany(mappedBy = "id.order")
+	private Set<OrderItem> items = new HashSet<>();
+	
 	// Contructors
 	public Order() {
 	}
@@ -87,6 +93,11 @@ public class Order implements Serializable {
 	// Serial
 	public static long getSerialversionuid() {
 		return serialVersionUID;
+	}
+	
+	//Set - get items
+	public Set<OrderItem>getItems(){
+		return items;
 	}
 
 	// Equals and HashCode
