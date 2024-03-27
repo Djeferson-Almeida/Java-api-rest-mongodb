@@ -24,11 +24,12 @@
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="com.projetospring.projectweb.entities.enums.OrderStatus"/>
     <fullyQualifiedTypeName name="com.projetospring.projectweb.entities.Category"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Transient"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="com.projetospring.projectweb.entities.Order"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
     <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
     <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
-    <fullyQualifiedTypeName name="jakarta.persistence.Transient"/>
-    <fullyQualifiedTypeName name="com.projetospring.projectweb.entities.Order"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
-    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.CascadeType"/>
 </qualifiedTypeNameHistroy>
