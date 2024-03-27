@@ -1,8 +1,0 @@
-package com.projetospring.projectweb.resources;
-
-import org.springframework.web.bind.annotation.RestController;
-
-@RestController
-public class UserResource {
-
-}
