@@ -1,5 +1,0 @@
-package com.projetospring.projectweb.repositories;
-
-public class UserRepository {
-
-}
