@@ -19,7 +19,10 @@ public class PostService {
 	public Post findById(String id) {
 		Optional <Post> obj = repo.findById(id);
 		return null;
-		
-	
 }
+	public List<Post> findByTitle(String text){
+		return repo.findByTitleContainingIgnoreCase(text);
+	}
+	
+	
 }
