@@ -23,7 +23,6 @@ public class URL {
 		try {
 			return sdf.parse(textDate);
 		} catch (ParseException e) {
-			
 			return defaultValue;
 		}
 	}
