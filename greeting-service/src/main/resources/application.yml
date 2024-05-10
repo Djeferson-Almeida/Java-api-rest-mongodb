@@ -1,6 +1,7 @@
 spring:
   application:
-   name: greeting-service
+    name: greeting-service
 greeting-service:
-  greeting:"Olá"
-  default-value:"Mundo"
+  greeting: "olá"
+  default-value: "Mundo"
+  
