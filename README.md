@@ -40,10 +40,10 @@
 
 # Passos para rodar localmente
 
-## Clone o repositório
+### Clone o repositório
 git clone https://github.com/Djeferson-Almeida/Java-api-rest-mongodb
 
-## Configure o application.properties ou application.yml conforme abaixo:
+### Configure o application.properties ou application.yml conforme abaixo:
 spring.data.mongodb.uri=mongodb://localhost:27017/springmongo
 ### Se precisar alterar a porta de inicialização da sua aplicação
 * Edite o arquivo application.properties
