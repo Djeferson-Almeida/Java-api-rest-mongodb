@@ -38,7 +38,7 @@
 * MongoDB em execução local (porta padrão 27017) ou conexão externa
 * Maven
 
-# Passos para rodar localmente
+## Passos para rodar localmente
 
 ### Clone o repositório
 git clone https://github.com/Djeferson-Almeida/Java-api-rest-mongodb
