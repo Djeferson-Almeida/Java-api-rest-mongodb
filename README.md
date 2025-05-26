@@ -4,7 +4,7 @@
 * 📌 **Cadastrar usuários**
 *  📝 **Criar postagens associadas a esses usuários**
 
-### A aplicação oferece endpoints para operações de **CRUD** (criar, ler, atualizar e deletar) de usuários e para a **publicação e consulta de posts**, permitindo testes e estudos ### com relacionamento de documentos no MongoDB.
+### A aplicação oferece endpoints para operações de **CRUD** (criar, ler, atualizar e deletar) de usuários e para a **publicação e consulta de posts**, permitindo testes e estudos  com relacionamento de documentos no MongoDB.
 
 ## 📡 API Endpoints
 
