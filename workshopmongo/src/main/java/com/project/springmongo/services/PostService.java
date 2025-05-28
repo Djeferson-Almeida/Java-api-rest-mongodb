@@ -18,7 +18,7 @@ public class PostService {
 	
 	public Post findById(String id) {
 		Optional <Post> obj = repo.findById(id);
-		return null;
+		return obj.orElseThrow(() -> new RuntimeException("Post não encontrado"));
 }
 	public List<Post> findByTitle(String text){
 		return repo.searchTitle(text);
@@ -28,4 +28,9 @@ public class PostService {
 		maxDate = new Date(maxDate.getTime() + 24 * 60 * 60 * 1000);
 		return repo.fullsearch(text, minDate, maxDate);
 	}
+
+	public Post insert(Post post) {
+		return repo.save(post);
+	}
+
 }
