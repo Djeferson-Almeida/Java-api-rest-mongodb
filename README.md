@@ -18,6 +18,7 @@
 * ❌ `DELETE /users/{id}` — Deletar um usuário
 
   ### Posts
+* 📝 `POST /posts` - Insere um novo post 
 * 🔍 `GET /posts/{id}` — Buscar post por ID  
 * 🔍 `GET /posts/titlesearch` — Buscar post por título  
 * 🔍 `GET /posts/fullsearch` — Busca todos os posts
